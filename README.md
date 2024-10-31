@@ -9,12 +9,12 @@ This project scrapes GitHub for users located in Zurich with over 50 followers a
 
 3. Recommendations for Developers: Create and share more public repositories to attract followers, enable wikis and project boards for better collaboration, and provide contact information to facilitate networking for job opportunities.
 
-
-
 ## Files
 - **users.csv**: Contains information about users in Zurich.
 - **repositories.csv**: Contains information about public repositories for each user.
+- **TDSProject1.ipynb**: Python code file used to scrap the data.
 - **README.md**: This file.
+
 
 ## User Fields
 - **login**: User GitHub ID
