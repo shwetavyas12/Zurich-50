@@ -1,7 +1,15 @@
 
 # GitHub Users in Zurich
-
 This project scrapes GitHub for users located in Zurich with over 50 followers and their public repositories.
+
+ 
+1. This project analyzes GitHub users in Zurich with over 50 followers, using the GitHub API for data collection. We utilized Python's requests library to extract user profiles and repository details, examining factors like follower count, hiring status, and repository features. Data was stored in CSV files for analysis.
+
+2. Key Findings: Users with more repositories attract more followers, hireable developers tend to share their email addresses, and enabling both projects and wikis enhances collaboration and documentation.
+
+3. Recommendations for Developers: Create and share more public repositories to attract followers, enable wikis and project boards for better collaboration, and provide contact information to facilitate networking for job opportunities.
+
+
 
 ## Files
 - **users.csv**: Contains information about users in Zurich.
