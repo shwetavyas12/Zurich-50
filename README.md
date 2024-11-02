@@ -13,6 +13,7 @@ This project scrapes GitHub for users located in Zurich with over 50 followers a
 - **users.csv**: Contains information about users in Zurich.
 - **repositories.csv**: Contains information about public repositories for each user.
 - **TDSProject1.ipynb**: Python code file used to scrap the data.
+- **TDSProject1-Solutions.ipynb**: Project Solutions using Python code.
 - **README.md**: This file.
 
 
